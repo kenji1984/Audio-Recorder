@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6F1B0D8E1AEE8D6C00728155"
-               BuildableName = "Pitch Perfect.app"
-               BlueprintName = "Pitch Perfect"
-               ReferencedContainer = "container:Pitch Perfect.xcodeproj">
+               BuildableName = "Recorder.app"
+               BlueprintName = "Recorder"
+               ReferencedContainer = "container:Recorder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6F1B0DA31AEE8D6C00728155"
-               BuildableName = "Pitch PerfectTests.xctest"
-               BlueprintName = "Pitch PerfectTests"
-               ReferencedContainer = "container:Pitch Perfect.xcodeproj">
+               BuildableName = "RecorderTests.xctest"
+               BlueprintName = "RecorderTests"
+               ReferencedContainer = "container:Recorder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6F1B0DA31AEE8D6C00728155"
-               BuildableName = "Pitch PerfectTests.xctest"
-               BlueprintName = "Pitch PerfectTests"
-               ReferencedContainer = "container:Pitch Perfect.xcodeproj">
+               BuildableName = "RecorderTests.xctest"
+               BlueprintName = "RecorderTests"
+               ReferencedContainer = "container:Recorder.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F1B0D8E1AEE8D6C00728155"
-            BuildableName = "Pitch Perfect.app"
-            BlueprintName = "Pitch Perfect"
-            ReferencedContainer = "container:Pitch Perfect.xcodeproj">
+            BuildableName = "Recorder.app"
+            BlueprintName = "Recorder"
+            ReferencedContainer = "container:Recorder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F1B0D8E1AEE8D6C00728155"
-            BuildableName = "Pitch Perfect.app"
-            BlueprintName = "Pitch Perfect"
-            ReferencedContainer = "container:Pitch Perfect.xcodeproj">
+            BuildableName = "Recorder.app"
+            BlueprintName = "Recorder"
+            ReferencedContainer = "container:Recorder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F1B0D8E1AEE8D6C00728155"
-            BuildableName = "Pitch Perfect.app"
-            BlueprintName = "Pitch Perfect"
-            ReferencedContainer = "container:Pitch Perfect.xcodeproj">
+            BuildableName = "Recorder.app"
+            BlueprintName = "Recorder"
+            ReferencedContainer = "container:Recorder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Pitch Perfect.xcodeproj">
+      location = "self:Recorder.xcodeproj">
    </FileRef>
 </Workspace>
